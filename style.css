@@ -1,0 +1,134 @@
+body{
+    text-align: center;
+margin:0px;
+background-color: #00BFFF;
+}
+#heading 
+{
+
+margin:0px;
+padding-top:4px;
+
+height:80px;
+/*text-align:center;*/
+background:linear-gradient(50deg,orange,aqua);
+/*font-size:50px;
+color: black;*/
+
+}
+.hea
+{
+    font-size: 45px;
+    margin-left: 30px;
+}
+#time
+{
+    margin: 10px;
+  
+    float:right;
+  
+    font-size: 30px;
+
+}
+#btn1
+{
+cursor:pointer;
+color:
+}
+#filename
+{
+    width:280px;
+    margin-left:0px;
+}
+#download
+{
+    width:130px;
+    margin: 0px;
+}
+#filename1
+{
+    width:280px;
+    margin-left:0px;
+}
+#download1
+{
+    width:130px;
+    margin-left: 0px;
+}
+#filename2
+{
+    width:280px;
+    margin-left:0px;
+}
+#download2
+{
+    width:130px;
+    margin-left: 0px;
+}
+.mainarea
+{
+    display:flex;
+    justify-content: space-around;
+
+}
+.editors
+{
+ 
+   background-color: skyblue;
+    width: 100%;
+cursor:pointer; 
+color:#FFE4C4
+}
+.editors:hover
+{
+
+background:orange;
+}
+
+textarea{
+    width: 100%;
+    min-height: 250px;overflow: auto;
+    font-size: x-large;
+    background-color:#EFE2BA;
+    border:solid 2px rgb(125, 36, 75);
+
+    
+}
+#css
+{
+    background-color:#c2CAD0; 
+}
+#js
+{
+    background-color:#8EE4AF; 
+}
+#html
+{
+    background-color: red;
+}
+iframe{
+    width: 100%;
+    height: 30em;
+  
+
+}
+
+#you{
+    width: 50%;
+    height: 200px;
+  
+
+}
+.output h2
+{
+ background-color:#ADFF2F;
+margin:0px;
+}
+footer
+{
+background:linear-gradient(40deg,#00BFFF,#7FFFD4);
+height:60px;
+/*text-align:center;*/
+font-size:10px;
+padding-top:10px;
+}
